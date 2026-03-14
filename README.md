@@ -67,11 +67,13 @@ Each technique is explained using a realistic scenario, the prompt given to the 
 **Prompt Input**
 
 1.Define artificial intelligence in one sentence.
+
 2.List three benefits of using renewable energy.
 
 **Prompt Output**
 
 1.Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and solve problems.
+
 2.Benefits of renewable energy:
 Reduces environmental pollution
 
@@ -103,6 +105,7 @@ AC vs DC Current Comparison
 **Prompt Input**
 
 1.Why is recycling important for the environment? Explain how recycling helps reduce pollution.”
+
 2.How does the internet work? Explain the role of servers and networks in data communication.”
 
 **Prompt Output**
@@ -118,12 +121,14 @@ AC vs DC Current Comparison
 **Prompt Input**
 
 1.The largest planet in the solar system is ____.
+
 2.Water boils at ____ degrees Celsius at standard atmospheric pressure.
 
 **Prompt Output**
 
-The largest planet in the solar system is Jupiter.
-Water boils at 100 degrees Celsius at standard atmospheric pressure.
+1.The largest planet in the solar system is Jupiter.
+
+2.Water boils at 100 degrees Celsius at standard atmospheric pressure.
 
 # RESULT:
 
