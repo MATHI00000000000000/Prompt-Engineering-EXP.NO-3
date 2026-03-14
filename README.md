@@ -42,7 +42,8 @@ Missing Word Prompting:
 
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
-OUTPUT:
+# OUTPUT:
+
 **Introduction to Prompt Engineering**
 
 Prompt Engineering is the technique of designing clear and effective inputs (prompts) to guide Artificial Intelligence (AI) models to generate useful and accurate responses. A well-structured prompt helps the AI understand the task better and produce high-quality output.
@@ -97,6 +98,7 @@ AC vs DC Current Comparison
 # 3. Preceding Question Prompting
 
 **Prompt Input**
+
 1.Why is recycling important for the environment? Explain how recycling helps reduce pollution.”
 2.How does the internet work? Explain the role of servers and networks in data communication.”
 
@@ -111,10 +113,12 @@ AC vs DC Current Comparison
 
 
 **Prompt Input**
+
 1.The largest planet in the solar system is ____.
 2.Water boils at ____ degrees Celsius at standard atmospheric pressure.
 
 **Prompt Output**
+
 The largest planet in the solar system is Jupiter.
 Water boils at 100 degrees Celsius at standard atmospheric pressure.
 
