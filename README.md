@@ -1,6 +1,8 @@
-EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+# EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
+# Aim: 
+
+To write the prompts for the following prompt types for 2 different scenarios of Each type.
 
 1.Straightforward Prompts
 
@@ -12,7 +14,7 @@ Aim: To write the prompts for the following prompt types for 2 different scenari
 
 Explanation - Any one use case from Unit 5 or any 2 own use cases with the unit 2 Prompt type
 
-Procedure:
+# Procedure:
 
 Write 2 different prompts for different use cases, refer the following Examples
 
@@ -42,7 +44,7 @@ Missing Word Prompting:
 
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
-OUTPUT:
+# OUTPUT:
 
 Each technique is explained using a realistic scenario, the prompt given to the AI, the AI output, and its goal and advantages.
 
